@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Melody</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string-array name="year">
+        <item>Hindi</item>
+        <item>Malayalam</item>
+        <item>Tamil</item>
+        <item>images</item>
+
+    </string-array>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
